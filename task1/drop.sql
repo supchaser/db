@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS highschooler;
+
+DROP TABLE IF EXISTS friend;
+
+DROP TABLE IF EXISTS likes;
